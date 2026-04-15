@@ -30,10 +30,6 @@ These services may collect and use information to show ads.
 ## 3. Children’s Privacy
 Kuku Kuu is intended for a general audience.
 We do not knowingly collect personal information from children under the age of 13.
-If the app is used by children:    
-• Ads are served in a way that complies with applicable child privacy laws (such as COPPA and GDPR-K where applicable).  
-• No personally identifiable information is knowingly collected.  
-<br>
 If you believe a child has provided personal information, please contact us so we can remove it.
 
 ## 4. Third-Party Services
